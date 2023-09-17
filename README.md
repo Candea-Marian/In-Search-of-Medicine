@@ -1,8 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![logo_game](https://github.com/Candea-Marian/In-Search-of-Medicine/assets/56280373/6d6339e4-40d4-4fdc-b8ee-ad146679c242)
-
+  <a href="https://github.com/Candea-Marian/In-Search-of-Medicine">
+    <img src="images/logo_game.png" alt="Logo">
+  </a>
 
   <h3 align="center">In Search of Medicine</h3>
     <br />
@@ -22,11 +23,13 @@ offering players an engaging experience.
 
 
 
-https://github.com/Candea-Marian/In-Search-of-Medicine/assets/56280373/91992bc7-b256-4c86-841b-2e11ba4d233b
+
+https://github.com/Candea-Marian/In-Search-of-Medicine/assets/56280373/435a407a-5074-47c8-8b3a-ab606eafdfcb
 
 
 
-https://github.com/Candea-Marian/In-Search-of-Medicine/assets/56280373/d11b7d1c-7460-4607-863a-630cc9b1d080
+https://github.com/Candea-Marian/In-Search-of-Medicine/assets/56280373/4ea44033-3ad6-43cd-a6fd-9e7b7a4df1c2
+
 
 
 
