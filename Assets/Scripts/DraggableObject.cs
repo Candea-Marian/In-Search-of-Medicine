@@ -24,13 +24,11 @@ public class DraggableObject : MonoBehaviour
         if (_canvas != null)
         {
             // The Canvas component is found
-            // You can now access and modify its properties
             _canvas.enabled = true;
         }
         else
         {
             // The Canvas component is not found
-            // Handle the situation accordingly
             Debug.LogError("Canvas component not found!");
         }
  
@@ -38,14 +36,6 @@ public class DraggableObject : MonoBehaviour
 
         // Store the default sorting order
         _defaultSortingOrder = _spriteRenderer.sortingOrder;
-    }
-
-    private void Update()
-    {
-        // Adjust sorting order based on Y position of the card
-        //_spriteRenderer.sortingOrder = _defaultSortingOrder + Mathf.RoundToInt(transform.position.y) + 1;
-        //_canvas.sortingOrder = _spriteRenderer.sortingOrder + 1;
-        
     }
  
     public void OnMouseDrag()
